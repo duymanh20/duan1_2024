@@ -49,13 +49,13 @@
           <!-- Grid column -->
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <!-- Content -->
-            <h6 class="text-uppercase fw-bold">Trangcosmestics</h6>
+            <h6 class="text-uppercase fw-bold">THOITRANG</h6>
             <hr
                 class="mb-4 mt-0 d-inline-block mx-auto"
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
             <p>
-              Nhiệm vụ của Trangcosmestics là tăng sắc đẹp cho mọi người thông qua từng sản phẩm chất lượng nhất 
+              Nhiệm vụ của chúng tôi là làm đẹp đôi chân cho mọi người thông qua từng sản phẩm chất lượng nhất 
             </p>
           </div>
           <!-- Grid column -->
@@ -63,22 +63,19 @@
           <!-- Grid column -->
           <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
             <!-- Links -->
-            <h6 class="text-uppercase fw-bold">SẢN PHẨM</h6>
+            <h6 class="text-uppercase fw-bold">DỊCH VỤ</h6>
             <hr
                 class="mb-4 mt-0 d-inline-block mx-auto"
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
             <p>
-              <a href="#!" class="text-dark">Chăm sóc da</a>
+              <a href="#!" class="text-dark">Điều khoản và dịch vụ</a>
             </p>
             <p>
-              <a href="#!" class="text-dark">Trang điểm</a>
+              <a href="#!" class="text-dark">Hướng dẫn mua hàng</a>
             </p>
             <p>
-              <a href="#!" class="text-dark">Chăm sóc cơ thể</a>
-            </p>
-            <p>
-              <a href="#!" class="text-dark">Chăm sóc móng</a>
+              <a href="#!" class="text-dark">Phương thức thanh toán</a>
             </p>
           </div>
           <!-- Grid column -->
@@ -86,19 +83,19 @@
           <!-- Grid column -->
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
             <!-- Links -->
-            <h6 class="text-uppercase fw-bold">ĐƯỜNG DẪN</h6>
+            <h6 class="text-uppercase fw-bold">CHÍNH SÁCH</h6>
             <hr
                 class="mb-4 mt-0 d-inline-block mx-auto"
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
             <p>
-              <a href="#!" class="text-dark">Tài khoản của bạn</a>
+              <a href="#!" class="text-dark">Chính sách vận chuyển</a>
             </p>
             <p>
-              <a href="#!" class="text-dark">Trở thành tiếp thị</a>
+              <a href="#!" class="text-dark">Chính sách đổi trả hàng</a>
             </p>
             <p>
-              <a href="#!" class="text-dark">Chất lượng giao hàng</a>
+              <a href="#!" class="text-dark">Chính sách bảo hành sản phẩm</a>
             </p>
             <p>
               <a href="#!" class="text-dark">Hỗ trợ</a>
@@ -109,13 +106,13 @@
           <!-- Grid column -->
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
             <!-- Links -->
-            <h6 class="text-uppercase fw-bold">LIÊN LẠC</h6>
+            <h6 class="text-uppercase fw-bold">LIÊN HỆ</h6>
             <hr
                 class="mb-4 mt-0 d-inline-block mx-auto"
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
-            <p><i class="fas fa-home mr-3"></i> Cần thơ,Việt Nam</p>
-            <p><i class="fas fa-envelope mr-3"></i> Trang@gmail.com</p>
+            <p><i class="fas fa-home mr-3"></i> Hà Nội,Việt Nam</p>
+            <p><i class="fas fa-envelope mr-3"></i> duymanh@gmail.com</p>
             <p><i class="fas fa-phone mr-3"></i> 090910JQK</p>
             <p><i class="fas fa-print mr-3"></i> 090910JQK</p>
           </div>
@@ -131,10 +128,7 @@
          class="text-center p-3"
          style="background-color: rgba(0, 0, 0, 0.2)"
          >
-      © 2024 Copyright:
-      <a class="text-dark" href="https://mdbootstrap.com/"
-         >Trangcosmestics.com</a
-        >
+      © dự án nhom 4 : duymanh20.com
     </div>
     <!-- Copyright -->
   </footer>

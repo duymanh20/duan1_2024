@@ -89,7 +89,7 @@ echo'<span class="badge bg-danger rounded-circle">'.count($_SESSION['cart']).'</
       <div
   class="p-5 text-center bg-image"
   style="
-    background-image: url(\'https://tse3.mm.bing.net/th?id=OIP.vqlTjRt0Poz1vARTsuDx5wHaCP&pid=Api&P=0&h=180\');
+    background-image: url(\'https://cdn.tgdd.vn/Files/2022/01/14/1410716/10-shop-giay-the-thao-dep-thoi-trang-nhat-sai-gon-202201140448168258.jpg\');
     height: 400px;
     margin-top: 58px;
   "
@@ -97,7 +97,7 @@ echo'<span class="badge bg-danger rounded-circle">'.count($_SESSION['cart']).'</
   <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
     <div class="d-flex justify-content-center align-items-center h-100">
       <div class="text-white">
-        <h1 class="mb-3">TRANG SNEAKER</h1>
+        <h1 class="mb-3">BLOG THỜI TRANG</h1>
         <h4 class="mb-3">2024</h4>
         ';
         foreach ($getAllCate as $key ) {
@@ -118,7 +118,7 @@ echo'<span class="badge bg-danger rounded-circle">'.count($_SESSION['cart']).'</
     <div
   class="p-5 text-center bg-image"
   style="
-    background-image: url(\'https://tse3.mm.bing.net/th?id=OIP.vqlTjRt0Poz1vARTsuDx5wHaCP&pid=Api&P=0&h=180\');
+    background-image: url(\'https://cdn.tgdd.vn/Files/2022/01/14/1410716/10-shop-giay-the-thao-dep-thoi-trang-nhat-sai-gon-202201140448168258.jpg\');
     height: 400px;
     margin-top: 58px;
   "
@@ -126,7 +126,7 @@ echo'<span class="badge bg-danger rounded-circle">'.count($_SESSION['cart']).'</
   <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
     <div class="d-flex justify-content-center align-items-center h-100">
       <div class="text-white">
-        <h1 class="mb-3">TRANG SNEAKER</h1>
+        <h1 class="mb-3">BLOG THỜI TRANG</h1>
         <h4 class="mb-3">2024</h4>';
         foreach ($getAllCate as $key ) {
           echo'
