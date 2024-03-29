@@ -113,8 +113,8 @@
                 />
             <p><i class="fas fa-home mr-3"></i> Hà Nội,Việt Nam</p>
             <p><i class="fas fa-envelope mr-3"></i> duymanh@gmail.com</p>
-            <p><i class="fas fa-phone mr-3"></i> 090910JQK</p>
-            <p><i class="fas fa-print mr-3"></i> 090910JQK</p>
+            <p><i class="fas fa-phone mr-3"></i> 0839456415</p>
+            <p><i class="fas fa-print mr-3"></i> 0839456415</p>
           </div>
           <!-- Grid column -->
         </div>
