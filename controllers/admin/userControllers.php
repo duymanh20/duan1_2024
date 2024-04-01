@@ -1,0 +1,13 @@
+<?php
+if(isset($_GET['del'])){
+    delUser($_GET['del']);
+}
+    $getAllUser=getAllUser();
+    if(isset($_GET['type1'])){
+        if($_GET['type1']=='seeuser'){
+            $getRevenueUser=getRevenueUser($_GET['id']);
+            include_once("app/views/admin/seeuser.views.php");
+        }
+    }else{
+    include_once("app/views/admin/user.views.php");
+    }
