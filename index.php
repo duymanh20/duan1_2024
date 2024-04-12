@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 include("models/pdo.php");
 include("models/user/userModels.php");
 include("models/user/productModels.php");
@@ -122,7 +121,6 @@ switch ($_GET['type']) {
         break;
 }
 }else{
-include_once("controllers/user/headerControllers.php");
 include_once("controllers/user/homeControllers.php");
 }
 include_once("controllers/user/footerControllers.php");
